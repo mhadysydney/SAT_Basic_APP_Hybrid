@@ -1,0 +1,12 @@
+{
+	"appId": "com.soft224.cesatrack",
+	"appName": "SAT TRACKING",
+	"webDir": "www",
+	"server": {
+		"url": "http://basic.satgroupe.com/app/mindex.php",
+		"cleartext": true
+	},
+	"packageClassList": [
+		"AppPlugin"
+	]
+}

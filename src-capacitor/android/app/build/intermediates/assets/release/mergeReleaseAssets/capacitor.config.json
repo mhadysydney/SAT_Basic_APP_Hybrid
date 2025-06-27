@@ -1,0 +1,19 @@
+{
+	"appId": "com.soft224.cesatrack",
+	"appName": "SAT TRACKING",
+	"webDir": "www",
+	"server": {
+		"url": "http://basic.satgroupe.com/app/mindex.php",
+		"cleartext": true
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 10000,
+			"launchAutoHide": true,
+			"backgroundColor": "#ffffff",
+			"androidScaleType": "CENTER_CROP",
+			"iosContentMode": "ScaleAspectFill",
+			"showSpinner": true
+		}
+	}
+}
