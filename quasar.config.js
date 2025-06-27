@@ -184,7 +184,9 @@ export default defineConfig((/* ctx */) => {
         // Windows only
         // win32metadata: { ... }
       },
-
+bin: {
+      linuxAndroidStudio: './intellij-idea-community.sh',
+    },
       builder: {
         // https://www.electron.build/configuration/configuration
 

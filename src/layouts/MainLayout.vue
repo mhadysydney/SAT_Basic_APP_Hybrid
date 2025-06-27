@@ -8,7 +8,6 @@
 
 <script>
 import { defineComponent } from 'vue'
-//import EssentialLink from 'components/EssentialLink.vue'
 
 export default defineComponent({
   name: 'MainLayout',
