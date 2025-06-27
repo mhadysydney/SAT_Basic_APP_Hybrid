@@ -13,8 +13,5 @@ import { defineComponent } from 'vue'
 
 export default defineComponent({
   name: 'IndexPage',
-  mounted() {
-    //window.location = 'http://basic.satgroupe.com/app/mindex.php'
-  },
 })
 </script>
