@@ -1,65 +1,5 @@
 [
     {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-land-xxxhdpi_splash.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-land-xxxhdpi/splash.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-port-xhdpi_splash.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-xhdpi/splash.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-port-hdpi_splash.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-hdpi/splash.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable_splash.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable/splash.png"
-    },
-    {
-        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
@@ -80,6 +20,18 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-land-xxxhdpi_splash.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-land-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-land-xhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-land-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable/splash.png"
+    },
+    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-port-mdpi_splash.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-mdpi/splash.png"
     },
@@ -88,8 +40,16 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-land-mdpi/splash.png"
     },
     {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-port-xxxhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-port-xxxhdpi/splash.png"
+    },
+    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -100,24 +60,20 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-xxxhdpi/splash.png"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-land-xxxhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-land-xxxhdpi/splash.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/layout_activity_main.xml.flat",
@@ -128,24 +84,40 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-port-xhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-port-xhdpi/splash.png"
+    },
+    {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-port-xhdpi_splash.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-land-xxhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-land-xxhdpi/splash.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-pngs-23:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-land-mdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-land-mdpi/splash.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable-port-hdpi_splash.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable-port-hdpi/splash.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -160,12 +132,12 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-port-xxhdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-port-xxhdpi/splash.png"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-port-mdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-port-mdpi/splash.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/xml_config.xml.flat",
@@ -180,12 +152,24 @@
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-port-hdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-port-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/drawable_splash.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/drawable/splash.png"
+    },
+    {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.soft224.cesatrack.app-debug-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.soft224.cesatrack.app-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.soft224.cesatrack.app-debug-27:/drawable-land-hdpi_splash.png.flat",
+        "source": "com.soft224.cesatrack.app-main-29:/drawable-land-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/mhady/.gradle/daemon/8.11.1/com.soft224.cesatrack.app-debug-27:/mipmap-xxhdpi_ic_launcher.png.flat",
