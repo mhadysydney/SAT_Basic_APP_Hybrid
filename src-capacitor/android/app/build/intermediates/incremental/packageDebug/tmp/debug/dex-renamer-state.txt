@@ -1,4 +1,4 @@
-#Fri Jun 27 15:54:53 GMT 2025
+#Fri Jun 27 23:41:55 GMT 2025
 base.0=/home/mhady/sat-basicapp/src-capacitor/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/mhady/sat-basicapp/src-capacitor/android/app/build/intermediates/dex/debug/mergeLibDexDebug/2/classes.dex
 base.2=/home/mhady/sat-basicapp/src-capacitor/android/app/build/intermediates/dex/debug/mergeLibDexDebug/5/classes.dex
