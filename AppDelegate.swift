@@ -2,23 +2,15 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-    var window: UIWindow?
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Initialize the window
-        window = UIWindow(frame: UIScreen.main.bounds)
-        
-        // Load the main storyboard
-        let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        
-        // Instantiate the initial view controller (ViewController from Main.storyboard)
-        if let viewController = storyboard.instantiateInitialViewController() {
-            window?.rootViewController = viewController
-            window?.makeKeyAndVisible()
-        } else {
-            print("Error: Failed to load initial view controller from Main.storyboard")
-        }
-        
+        // SceneDelegate handles window setup for iOS 13+
         return true
+    }
+
+    // Support UIScene configuration
+    func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
+        let configuration = UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
+        configuration.delegateClass = SceneDelegate.self
+        return configuration
     }
 }
